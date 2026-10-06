@@ -1,0 +1,7 @@
+{
+  "name": "PROJET 3D - Fabricación Aditiva y Prototipado",
+  "description": "Plataforma integral de consultoría, web corporativa, cotización automática de archivos STL y chatbot inteligente para servicios de impresión 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
